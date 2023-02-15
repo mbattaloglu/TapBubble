@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f8357f465e94b9793697e0d8e12993, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  boolValues:
+  - key: Music
+    value: 1
+    defaultValue: 1
+  - key: SFX
+    value: 1
+    defaultValue: 1
+  - key: PlayerMadePurchase
+    value: 0
+    defaultValue: 0
+  - key: ByPassRewardedAd
+    value: 1
+    defaultValue: 1
+  - key: RemoveAds
+    value: 0
+    defaultValue: 0
+  intValues:
+  - key: SessionCount
+    value: 0
+    defaultValue: 0
+  - key: PlayerBestScore
+    value: 0
+    defaultValue: 0
+  - key: CoinCount
+    value: 564
+    defaultValue: 88
+  stringValues:
+  - key: PlayerName
+    value: 
+    defaultValue: 
+  activeAvatar: {fileID: 11400000, guid: 1999ac293e8544627acc2b4d2ae9f74b, type: 2}

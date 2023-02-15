@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c40b1b50578747a887bcffa394a79f0, type: 3}
+  m_Name: SoundClips
+  m_EditorClassIdentifier: 
+  soundClipSources:
+  - key: ButtonClick1
+    value: {fileID: 8300000, guid: 4fe2df9de1efc4903b9018fbe86502ec, type: 3}
+  - key: ButtonClick2
+    value: {fileID: 8300000, guid: 90dabecb0a9474e2e8be5f6d60f79ee9, type: 3}
+  - key: CoinCollect
+    value: {fileID: 8300000, guid: 3886c437d7c994714a7c9edf5e2e4b0e, type: 3}
+  - key: Music
+    value: {fileID: 8300000, guid: a4c53f58593cb429a95afa7301971c70, type: 3}
+  - key: AvatarBought
+    value: {fileID: 8300000, guid: 83e7049709e9049dbb4a46a5bc107a07, type: 3}
+  - key: GunFire
+    value: {fileID: 8300000, guid: 6739c01659ad96d47987f4ddee226b36, type: 3}
